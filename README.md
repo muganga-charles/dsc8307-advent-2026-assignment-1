@@ -54,4 +54,3 @@ Bank Marketing data: Moro, S., Cortez, P. and Rita, P. (2014). A data driven app
 Concrete data: Yeh, I. C. (1998). Modeling of strength of high performance concrete using artificial neural networks. Cement and Concrete Research, 28(12), 1797 to 1808. Distributed through the UCI Machine Learning Repository.
 
 Full references for the methods used are listed at the end of each notebook.
-# dsc8307-advent-2026-assignment-1
